@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\chapternumberline {1}M\IeC {\'o}dulo de Young}{3}{chapter.1}% 
+\contentsline {chapter}{\chapternumberline {2}Coeficiente de Poisson}{4}{chapter.2}% 
+\contentsline {chapter}{\chapternumberline {3}M\IeC {\'o}dulo de cizalladura}{5}{chapter.3}% 
+\contentsline {chapter}{\chapternumberline {4}Primera prueba}{6}{chapter.4}% 
+\contentsline {chapter}{\chapternumberline {5}Segunda prueba}{8}{chapter.5}% 
+\contentsline {chapter}{\chapternumberline {6}Cargas}{10}{chapter.6}% 
+\contentsline {chapter}{\chapternumberline {7}Cargas en primera prueba}{13}{chapter.7}% 
+\contentsline {chapter}{\chapternumberline {8}Cargas en segunda prueba}{17}{chapter.8}% 
+\contentsline {chapter}{Bibliograf\'{\i }a}{22}{chapter*.1}% 

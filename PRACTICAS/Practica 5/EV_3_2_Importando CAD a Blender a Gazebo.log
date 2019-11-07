@@ -1,0 +1,958 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  6 NOV 2019 09:20
+entering extended mode
+**"./EV_3_2_Importando CAD a Blender a Gazebo.tex"
+("EV_3_2_Importando CAD a Blender a Gazebo.tex"
+LaTeX2e <2018-12-01>
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memoir.c
+ls"
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifetex\ifetex.s
+ty"
+Package: ifetex 2018/03/31 v1.2a ifetex
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/plain/ifetex\ifetex.t
+ex"))
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxet
+ex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem11.cl
+o"
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen107
+\ar@mcellbox=\box27
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\ar@cellbox=\box28
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\dcolumn.s
+ty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\delarray.
+sty"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.
+sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box29
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box30
+\m@mscap@fbox=\box31
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\micro
+type.sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+\MT@toks=\toks25
+\MT@count=\count138
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen147
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count139
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\micro
+type-pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip185
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\micro
+type.cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
+))
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dv
+ips.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.s
+ty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.st
+y"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.s
+ty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.
+def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.c
+fg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\s
+panish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.d
+ef"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count140
+\U@D=\dimen150
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabe
+l.def")
+\bbl@dirlevel=\count141
+)
+\es@quottoks=\toks26
+\es@quotdepth=\count142
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperr
+ef.sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobs
+ub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobs
+ub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhoo
+k.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count143
+\Hy@pagecounter=\count144
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc
+.def"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count145
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperr
+ef.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4424.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4424.
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count146
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen152
+\Fld@menulength=\count147
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring ON on input line 6429.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count148
+\c@Item=\count149
+\c@Hfootnote=\count150
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memhfixc
+.sty"
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count151
+\c@Hpagenote=\count152
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdfte
+x.def"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count153
+\c@bookmark@seq@number=\count154
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunf
+ilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip186
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count155
+\Gm@cntv=\count156
+\c@Gm@tempcnt=\count157
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks27
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.cfg"))
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+("EV_3_2_Importando CAD a Blender a Gazebo.aux"
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+
+
+LaTeX Warning: Label `blender' multiply defined.
+
+
+LaTeX Warning: Label `Imagen 4' multiply defined.
+
+)
+\openout1 = `"EV_3_2_Importando CAD a Blender a Gazebo.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 57.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.f
+d"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Info: Redefining \microtypecontext on input line 57.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-pt
+m.cfg"
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count158
+\scratchdimen=\dimen163
+\scratchbox=\box32
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen164
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
+\everyMPtoPDFconversion=\toks29
+)
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring ON on input line 57.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namere
+f.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gett
+itlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count164
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
+("EV_3_2_Importando CAD a Blender a Gazebo.out")
+("EV_3_2_Importando CAD a Blender a Gazebo.out")
+\@outlinefile=\write4
+\openout4 = `"EV_3_2_Importando CAD a Blender a Gazebo.out"'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 455.24413pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24413pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-34.61191pt
+* \headheight=13.6pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=49.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 68.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.f
+d"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<marcos.png, id=23, 228.35312pt x 211.79124pt>
+File: marcos.png Graphic file (type png)
+<use marcos.png>
+Package pdftex.def Info: marcos.png  used on input line 73.
+(pdftex.def)             Requested size: 114.17627pt x 105.89536pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+{C:/Users/Lalo 7u7/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./marcos
+.png>]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 110.
+ ("EV_3_2_Importando CAD a Blender a Gazebo.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+
+("C:\Users\Lalo 7u7\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cm
+r.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+) [2]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 116.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+<blender.jpg, id=44, 803.0pt x 611.28375pt>
+File: blender.jpg Graphic file (type jpg)
+<use blender.jpg>
+Package pdftex.def Info: blender.jpg  used on input line 123.
+(pdftex.def)             Requested size: 321.1943pt x 244.50917pt.
+[3
+
+
+ <./blender.jpg>]
+<gazebo.jpg, id=52, 2935.96875pt x 1820.8025pt>
+File: gazebo.jpg Graphic file (type jpg)
+<use gazebo.jpg>
+Package pdftex.def Info: gazebo.jpg  used on input line 137.
+(pdftex.def)             Requested size: 352.30106pt x 218.48688pt.
+ [4
+
+ <./gazebo.jpg>]
+<1.png, id=58, 186.19562pt x 146.04562pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 148.
+(pdftex.def)             Requested size: 167.5745pt x 131.43982pt.
+<maquina.png, id=59, 940.01187pt x 313.67188pt>
+File: maquina.png Graphic file (type png)
+<use maquina.png>
+Package pdftex.def Info: maquina.png  used on input line 154.
+(pdftex.def)             Requested size: 658.00383pt x 219.5688pt.
+
+Overfull \hbox (202.7597pt too wide) in paragraph at lines 154--155
+[][] 
+ []
+
+[5
+
+ <./1.png> <./maquina.png>]
+<2.png, id=66, 117.43875pt x 65.74562pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 161.
+(pdftex.def)             Requested size: 223.13232pt x 124.91595pt.
+<3.png, id=67, 246.9225pt x 93.85063pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 166.
+(pdftex.def)             Requested size: 419.76643pt x 159.54536pt.
+<4.png, id=68, 283.0575pt x 143.03438pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 172.
+(pdftex.def)             Requested size: 339.66728pt x 171.64037pt.
+<carpeta.png, id=69, 866.23625pt x 188.705pt>
+File: carpeta.png Graphic file (type png)
+<use carpeta.png>
+Package pdftex.def Info: carpeta.png  used on input line 178.
+(pdftex.def)             Requested size: 433.11707pt x 94.35226pt.
+<dae.png, id=70, 467.7475pt x 365.365pt>
+File: dae.png Graphic file (type png)
+<use dae.png>
+Package pdftex.def Info: dae.png  used on input line 185.
+(pdftex.def)             Requested size: 210.48442pt x 164.41272pt.
+<6.png, id=71, 563.60562pt x 350.81062pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 191.
+(pdftex.def)             Requested size: 253.62018pt x 157.86331pt.
+<iniciargaz.png, id=72, 563.60562pt x 350.81062pt>
+File: iniciargaz.png Graphic file (type png)
+<use iniciargaz.png>
+Package pdftex.def Info: iniciargaz.png  used on input line 197.
+(pdftex.def)             Requested size: 422.70317pt x 263.10732pt.
+<gaz.png, id=73, 554.07pt x 343.78438pt>
+File: gaz.png Graphic file (type png)
+<use gaz.png>
+Package pdftex.def Info: gaz.png  used on input line 203.
+(pdftex.def)             Requested size: 415.55148pt x 257.83763pt.
+ [6 <./2.png> <./3.png> <./4.png>] [7 <./carpeta.png> <./dae.png> <./6.png>] [8
+ <./iniciargaz.png> <./gaz.png>]
+("EV_3_2_Importando CAD a Blender a Gazebo.bbl" [9
+
+]
+bibitemlist
+) [10
+
+]
+\tf@toc=\write5
+\openout5 = `"EV_3_2_Importando CAD a Blender a Gazebo.toc"'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+ ("EV_3_2_Importando CAD a Blender a Gazebo.aux"
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+Package rerunfilecheck Info: File `"EV_3_2_Importando CAD a Blender a Gazebo".o
+ut' has not changed.
+(rerunfilecheck)             Checksum: 6580F15C5454207E5023378BB13EFC35;232.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+ ) 
+Here is how much of TeX's memory you used:
+ 12141 strings out of 492895
+ 182144 string characters out of 3122332
+ 351516 words of memory out of 3000000
+ 15821 multiletter control sequences out of 15000+200000
+ 29229 words of font info for 92 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,11n,38p,488b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Lalo 7u7/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
+enc}<C:/Users/Lalo 7u7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvet
+ic/uhvb8a.pfb><C:/Users/Lalo 7u7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvr8a.pfb><C:/Users/Lalo 7u7/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/Lalo 7u7/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Lalo 7u7/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Lalo 7u7/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "EV_3_2_Importando CAD a Blender a Gazebo.pdf" (10 pages, 221
+9143 bytes).
+PDF statistics:
+ 138 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 18026 words of extra memory for PDF output out of 20736 (max. 10000000)
+
