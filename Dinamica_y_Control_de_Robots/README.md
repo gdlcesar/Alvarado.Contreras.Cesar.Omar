@@ -13,7 +13,7 @@
 * Practicas
   * -[ ] EV_2_1_desarrollo_de_control_teorico
   * -[ ] EV_2_2_prototipo_de_control_robot
-  * -[ ] EV_2_3_prototipo_de_robot
+  * -[x] EV_2_3_prototipo_de_robot
   * -[x] EV_PSOC_5LP_ENVIO_MENSAJE_ROS
   * -[ ] EV_3_2_MOVER_3_GDL_ROS
   * -[ ] EV_3_3_SCRIPT_MOVER_3_GDL_ROS
