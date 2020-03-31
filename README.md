@@ -7,7 +7,7 @@
   * -[ ] Comandos_gcc_y_gdb
 * Practicas
   * -[x] gcc_arm
-  * -[ ] GDB
+  * -[x] GDB
   * -[ ] comunicación serial con Raspberry
   
   
