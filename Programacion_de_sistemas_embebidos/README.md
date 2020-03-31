@@ -23,7 +23,7 @@
   * -[ ] 3_7_HDL
   * -[ ] 3_8_Embedded_Linux
   * -[x] 3_9_gcc_arm
-  * -[ ] 3_10_GDB
+  * -[X] 3_10_GDB
   
   
   ![Logo github](https://seeklogo.net/wp-content/uploads/2015/09/github-mark-logo-400x400.png)
